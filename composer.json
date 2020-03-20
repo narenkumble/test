@@ -1,0 +1,13 @@
+{
+    "name": "time/test-1",
+    "type": "git",
+    "authors": [
+        {
+            "name": "Rajesh Nandiki",
+            "email": "rajesh.nandiki@timeinc.com"
+        }
+    ],
+    "require": {
+      "drupal/file_entity": "7.1.5"
+    }
+}
